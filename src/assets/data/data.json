@@ -1,0 +1,41 @@
+{
+    "nombre": "Marcos Gavilan",
+    "backImage":"https://www.michaelpage.es/sites/michaelpage.es/files/styles/advice_node_desktop/public/2021-11/Full%20Stack%20Developer.jpg?itok=mciNzA6q",
+    "imagenPerfil":"https://lh3.googleusercontent.com/a/AGNmyxbUUceUy5C4BklCxZw_dTQIbulYW-A4tHJzPslnXzU=s288-c-no",
+    "nacimiento":"Buenos Aires, Argentina",
+    "titulo": "Full Stack Developer Jr",
+    
+    "about":"Me llamo Marcos Nahuel Gavilan. Vivo en Buenos Aires, Argentina y me dedico a ser Desarrollador Full Stack Jr",
+
+    "experiencia": [ {
+        "empresa":"Argentina Programa",
+        "descripcion":"Creacion de Portfolio Web utilizando herramientas como Angular, HTML, CSS y Bootstrap para el diseño del Frontend"
+    
+    }],
+    "education":[{
+        "img":"https://media.licdn.com/dms/image/C4E0BAQFHTsbtjBukwA/company-logo_200_200/0/1547697956041?e=2147483647&v=beta&t=OxTdHA2apzvZtDYAehn6VCGfs0kIoXznWr_xx35pZ1Q",
+        "institucion":"Instituto de Enseñanza Superior en Lenguas Vivas ",
+        "descripcion":"Manejo del idioma ingles, B1",
+        "fechaInicio": "2010",
+        "fechaFinal": "2019"
+
+    }],
+    "trabajos":[{
+        "titulo":"Creacion del Portfolio Web",
+        "descripcion": "Este proyecto es mi primer experiencia en el mundo ITdonde el enfoque del trabajo realizado esta orientado a obtener un Fontend dinamico y un Backend orientado a objetos y recoleccion de los datos que se obtienen de una base de datos. Tambien busco que el cliente pueda iniciar sesion en la pagina web para acceder a estas funcionaidades."
+    }
+],
+       
+        
+        "habilidades":[{
+            "tecnologia":"HTML",
+            "progreso":"50"
+
+        },
+        {
+            "tecnologia":"CSS",
+            "progreso":"100"
+        }
+    ]
+    
+}

@@ -1,0 +1,59 @@
+.row {
+    border: 0.02em solid rgba(28,110,164,0.2);
+    margin: 0.5em 0.5em ;
+    border-radius: 1em;   
+    
+}
+
+.encabezado {
+    height: 3rem;
+    display: flex;
+    background-color: black;
+    justify-content:space-between;
+   
+}
+h6 {
+color: dimgray;
+}
+div#mat-card {
+    padding:0;
+
+}
+
+div#back_img img{
+        border-radius: 10px 10px 0 0;
+        width:100%;
+
+}
+
+.img-avatar{
+    border-radius:50%;
+    width: 10em;
+    height: 10em;
+    margin-top: -5em;
+    margin-left: 1em;
+}
+
+.menu {
+    list-style: none;
+    display:flex;
+    
+}
+img.Logo {
+    border-radius: 50%;
+    display:flex;
+    width:3em;
+    height:3em;
+    list-style: none;
+}
+
+#editar{ 
+    float: right;
+    background-color: inherit;
+    border: 0px;
+     
+}
+
+p{
+    margin-bottom: 0.1em;
+}
